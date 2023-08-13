@@ -1,4 +1,7 @@
-# Hey everyone, I'm Newyork! 🌃
+<p align="center">
+  <img src="https://github.com/NewyorkMengHer/NewyorkMengHer/blob/main/messagif.gif" alt="newyorkgif">
+</p>
+
 
 ### Things I code with: 
 
