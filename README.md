@@ -1,4 +1,4 @@
-# Hey everyone, I'm Newyork!
+# Hey everyone, I'm Newyork! 🌃
 
 ### Frequently Asked Questions:
 - **Is your real name "New York"?**
