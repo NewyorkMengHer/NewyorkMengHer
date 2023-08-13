@@ -32,7 +32,7 @@ With a strong foundation in **SQL**, I've honed my skills to efficiently query a
 While I don't have a favorite team, I love hitting the field and playing ball with my friends. It's all about the love of the game!
 
 - Anime Expert 🍿
-I appreciate the depth and storytelling in anime series like **One Piece** and **Demon Slayer**. Zenitsu's bravery, despite his fears, resonates with me. Additionally, **Your Name** stands out as a cinematic masterpiece in my book. You should add it to your list!
+I appreciate the depth and storytelling in anime series like **One Piece** and **Demon Slayer**. Additionally, **Your Name** stands out as a cinematic masterpiece in my book. You should add it to your list!
 
 - Data Magician 📊
 I recently conjured an ETL project using **AWS**, pulling video game data into a pipeline for some deep analysis. Exploring the gaming space through data is my kind of adventure!
