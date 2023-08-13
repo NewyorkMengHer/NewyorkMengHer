@@ -1,20 +1,20 @@
 # Hey everyone, I'm Newyork! 🌃
 
 ### Things I code with: 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="python" src ="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-<img alt="mysql" src ="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img alt="github" src ="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img alt="tableau" src ="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-<img alt="powerbi" src ="https://img.shields.io/badge/-Power BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img alt="jupyter" src ="https://img.shields.io/badge/-Jupyter Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-<img alt="spark" src ="https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img alt="hadoop" src ="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
-<img alt="linux" src ="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />\
-<img alt="hive" src ="https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" />
-<img alt="scala" src ="https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
 
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Powe%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Liniux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 
 ### Frequently Asked Questions:
 - **Is your real name "New York"?**
