@@ -11,7 +11,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Powe%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
