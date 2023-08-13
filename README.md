@@ -1,7 +1,7 @@
 # Hey everyone, I'm Newyork!
 
 ### Frequently Asked Questions:
-- **Is your legal name "New York"?**
+- **Is your real name "New York"?**
   - Yes, but it's spelled "Newyork".
 - **Are you from New York?**
     -  No, I'm not.
