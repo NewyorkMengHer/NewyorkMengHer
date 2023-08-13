@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @NewyorkMengHer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey everyone, I'm Newyork!
+
+### Frequently Asked Questions:
+- **Is your legal name "New York"?**
+  - Yes, but it's spelled "Newyork".
+- **Are you from New York?**
+    -  No, I'm not.
+- **Are your parents from New York?**
+  - No, they aren't.
+- **Have you ever been to New York?**
+  - Not yet!
+- **How did you get your name?**
+  - It's an intriguing story. Let's connect on LinkedIn and chat about it!
+
 ### Let's connect on LinkedIn!
 <a href="https://www.linkedin.com/in/newyork-her/" target="blank"><img align="center" src="https://github.com/NewyorkMengHer/NewyorkMengHer/blob/main/socials/transparent-Linkedin-logo-icon.png" height="30" /></a>
 
