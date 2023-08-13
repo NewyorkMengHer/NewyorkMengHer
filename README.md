@@ -20,6 +20,9 @@
 <a href="" target="blank"><img align="center" src="https://github.com/NewyorkMengHer/NewyorkMengHer/blob/main/Game%20Icons/Steam.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/NewyorkMengHer/NewyorkMengHer/blob/main/Game%20Icons/Switch.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/NewyorkMengHer/NewyorkMengHer/blob/main/Game%20Icons/valorant.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/NewyorkMengHer/NewyorkMengHer/blob/main/Game%20Icons/minecraft.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/NewyorkMengHer/NewyorkMengHer/blob/main/Game%20Icons/overwatch.png" height="30" /></a>
+
 
 ### Some Fun Facts About Me! 
 - Morning Ritual ☕
