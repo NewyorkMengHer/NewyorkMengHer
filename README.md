@@ -15,7 +15,7 @@
 <a href="" target="blank"><img align="center" src="https://github.com/NewyorkMengHer/NewyorkMengHer/blob/main/Game%20Icons/Switch.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/NewyorkMengHer/NewyorkMengHer/blob/main/Game%20Icons/valorant.png" height="30" /></a>
 
-### 🎮 Fun Facts About Me! 🎮
+### Some Fun Facts About Me! 
 - Gamer Alert! 🎮
 From building blocks in **Minecraft** to catching 'em all in **Pokemon**, I've played them all. Lately, I've been diving into the competitive worlds of **Overwatch** and **Valorant**. GGWP!
 
