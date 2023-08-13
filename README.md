@@ -9,10 +9,10 @@
 <img alt="tableau" src ="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 <img alt="powerbi" src ="https://img.shields.io/badge/-Power BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 <img alt="jupyter" src ="https://img.shields.io/badge/-Jupyter Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-<img alt="spark" src ="https://img.shields.io/badge/-Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img alt="hadoop" src ="https://img.shields.io/badge/-Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
+<img alt="spark" src ="https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img alt="hadoop" src ="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
 <img alt="linux" src ="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />\
-<img alt="hive" src ="https://img.shields.io/badge/-Apache Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" />
+<img alt="hive" src ="https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" />
 <img alt="scala" src ="https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
 
 
