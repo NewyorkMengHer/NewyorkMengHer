@@ -10,10 +10,7 @@
 - **Have you ever been to New York?**
   - Not yet!
 - **How did you get your name?**
-  - It's an intriguing story. Let's connect on LinkedIn and chat about it!
-
-### Let's connect on LinkedIn!
-<a href="https://www.linkedin.com/in/newyork-her/" target="blank"><img align="center" src="https://github.com/NewyorkMengHer/NewyorkMengHer/blob/main/socials/transparent-Linkedin-logo-icon.png" height="30" /></a>
+  - It's an intriguing story. Let's connect on LinkedIn and chat about it! <a href="https://www.linkedin.com/in/newyork-her/" target="blank"><img align="center" src="https://github.com/NewyorkMengHer/NewyorkMengHer/blob/main/socials/transparent-Linkedin-logo-icon.png" height="25" /></a>
 
 ### I'm a gamer too, so you might find me on:
 <a href=" " target="blank"><img align="center" src="https://github.com/NewyorkMengHer/NewyorkMengHer/blob/main/Game%20Icons/discord.png" height="30" /></a>
