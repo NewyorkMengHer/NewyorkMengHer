@@ -2,6 +2,8 @@
   <img src="https://github.com/NewyorkMengHer/NewyorkMengHer/blob/main/messagif.gif" alt="newyorkgif">
 </p>
 
+### About Me
+I'm a Big Data boot camp graduate, passionate about extracting insights from vast datasets. Continuously expanding my skill set through projects, collaborations and work experience, I thrive on unveiling data-driven insights.
 
 ### Things I code with: 
 
@@ -62,7 +64,7 @@ I appreciate the depth and storytelling in anime series like **One Piece** and *
 - Data Magician 📊
 I recently conjured an ETL project using **AWS**, pulling video game data into a pipeline for some deep analysis. Exploring the gaming space through data is my kind of adventure!
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewyorkMengHer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
