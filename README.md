@@ -22,6 +22,9 @@
 <a href="" target="blank"><img align="center" src="https://github.com/NewyorkMengHer/NewyorkMengHer/blob/main/Game%20Icons/valorant.png" height="30" /></a>
 
 ### Some Fun Facts About Me! 
+- Morning Ritual ☕
+Before I dive into lines of code, I need my morning coffee. It's the magic potion that kickstarts my day!
+
 - Gamer Alert! 🎮
 From building blocks in **Minecraft** to catching 'em all in **Pokemon**, I've played them all. Lately, I've been diving into the competitive worlds of **Overwatch** and **Valorant**. GGWP!
 
@@ -37,8 +40,6 @@ I appreciate the depth and storytelling in anime series like **One Piece** and *
 - Data Magician 📊
 I recently conjured an ETL project using **AWS**, pulling video game data into a pipeline for some deep analysis. Exploring the gaming space through data is my kind of adventure!
 
-- Morning Ritual ☕
-Before I dive into lines of code, I need my morning coffee. It's the magic potion that kickstarts my day!
 
 
 
