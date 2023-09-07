@@ -20,6 +20,7 @@ I'm a Big Data boot camp graduate, passionate about extracting insights from vas
 ![Liniux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### Frequently Asked Questions:
 - **Is your real name "New York"?**
